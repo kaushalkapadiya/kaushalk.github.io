@@ -1,2 +1,2 @@
-# template page for selling book
+# Template webpage for selling book
 ''' 3k '''
